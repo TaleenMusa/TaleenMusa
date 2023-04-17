@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hello 👋, my name is Taleen Khoury
 
-<!--
-**TaleenMusa/TaleenMusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I started my career as an accountant but now I am a full stack developer with a passion for solving real-world problems. I specialize in programming languages and pay close attention to detail, which allows me to create flawless and user-friendly websites. I stay up-to-date with the latest web development trends to ensure that your website is always modern and relevant.
 
-Here are some ideas to get you started:
+## Skills
+Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming Languages
+
+Attention to Detail
+
+Problem Solving
+
+Website Design
