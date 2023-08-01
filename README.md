@@ -1,6 +1,6 @@
 ## Hello 👋, my name is Taleen Khoury
 
-I started my career as an accountant but now I am a full stack developer with a passion for solving real-world problems. I specialize in programming languages and pay close attention to detail, which allows me to create flawless and user-friendly websites. I stay up-to-date with the latest web development trends to ensure that your website is always modern and relevant.
+Adaptable junior professional with a strong foundation in accounting and developing skills in full stack development. Committed to delivering accurate financial insights and creating user-friendly websites through a blend of analytical thinking and programming expertise.
 
 ## Skills
 Full Stack Development
